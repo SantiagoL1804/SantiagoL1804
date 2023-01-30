@@ -117,12 +117,6 @@ https://pf-techbunny-lake.vercel.app
       </a>
       <br>PostgresSQL
     </td>
-  <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>MongoDB
-    </td>
    <td align="center" width="100">
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="50" height="50" alt="JavaScript" />
