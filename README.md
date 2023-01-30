@@ -51,29 +51,11 @@ https://pf-techbunny-lake.vercel.app
       </a>
       <br>Sass
     </td>
-    <td align="center"  width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Sass" />
-      </a>
-      <br>Tailwind
-    </td>
     <td align="center" width="100">
       <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Soon" />
       </a>
       <br>Bootstrap
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50" height="50" alt="Soon" />
-      </a>
-      <br>Angular
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50" alt="Soon" />
-      </a>
-      <br>Figma
     </td>
   </tr>
   
@@ -115,12 +97,6 @@ https://pf-techbunny-lake.vercel.app
    </a>
   <br>Github
    </td>
-   <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>Photoshop
-  </td>
   </tr>
 <tr>
     <td align="center" width="100">
@@ -143,21 +119,9 @@ https://pf-techbunny-lake.vercel.app
     </td>
   <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/less.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>Less
-    </td>
-  <td align="center" width="100">
-      <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/es6.svg" width="50" height="50" alt="JavaScript" />
       </a>
       <br>ES6
-    </td>
-  <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>CANVA
     </td>
   <td align="center" width="100">
       <a href="#">
