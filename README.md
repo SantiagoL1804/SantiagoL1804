@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="auto" src="Banner.png">
+<img align="center" alt="banner" width="auto" src="bannerGithub.png">
 
 <h1 align="center">¡Hola! Soy Santiago Larrique 💻 Front-End developer</h1>
 
