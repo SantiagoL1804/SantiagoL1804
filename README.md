@@ -57,6 +57,18 @@ https://pf-techbunny-lake.vercel.app
       </a>
       <br>Bootstrap
     </td>
+     <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/es6.svg" width="50" height="50" alt="JavaScript" />
+      </a>
+      <br>ES6
+    </td>
+  <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="50" height="50" alt="JavaScript" />
+      </a>
+      <br>MATERIAL IU
+    </td>
   </tr>
   
   <tr>
@@ -117,19 +129,6 @@ https://pf-techbunny-lake.vercel.app
       </a>
       <br>Express
     </td>
-  <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/es6.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>ES6
-    </td>
-  <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>MATERIAL IU
-    </td>
-  
   </tr>
 </table>
 
