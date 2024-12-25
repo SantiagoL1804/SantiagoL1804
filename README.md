@@ -125,8 +125,7 @@ https://pf-techbunny-lake.vercel.app
 <tr>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg
-" width="50" height="50" alt="Laravel" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="50" height="50" alt="Laravel" />
       </a>
       <br>Laravel
     </td>
