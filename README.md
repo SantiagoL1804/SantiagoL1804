@@ -47,9 +47,9 @@ https://pf-techbunny-lake.vercel.app
     </td>
     <td align="center"  width="100">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="50" height="50" alt="Sass" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="50" height="50" alt="wordpress" />
       </a>
-      <br>Sass
+      <br>Wordpress
     </td>
     <td align="center" width="100">
       <a href="#">
@@ -65,9 +65,9 @@ https://pf-techbunny-lake.vercel.app
     </td>
   <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="50" height="50" alt="JavaScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="mysql" />
       </a>
-      <br>MATERIAL IU
+      <br>MySQL
     </td>
   </tr>
   
@@ -80,7 +80,7 @@ https://pf-techbunny-lake.vercel.app
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50" alt="JavaScript" />
+        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50" alt="React" />
       </a>
       <br>React
     </td>
@@ -105,9 +105,9 @@ https://pf-techbunny-lake.vercel.app
   </td>
    <td align="center" width="100">
    <a href="#">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="CSS3" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
    </a>
-  <br>Github
+  <br>PHP
    </td>
   </tr>
 <tr>
