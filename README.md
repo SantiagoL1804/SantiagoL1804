@@ -105,7 +105,7 @@ https://pf-techbunny-lake.vercel.app
   </td>
    <td align="center" width="100">
    <a href="#">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="CSS3" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="CSS3" />
    </a>
   <br>Github
    </td>
