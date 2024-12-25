@@ -71,7 +71,7 @@ https://pf-techbunny-lake.vercel.app
     </td>
     <td align="center" width="100">
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" alt="AWS" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50" alt="AWS" />
   </a>
   <br>AWS
 </td>
