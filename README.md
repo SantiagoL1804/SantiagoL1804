@@ -109,13 +109,20 @@ https://pf-techbunny-lake.vercel.app
    </a>
   <br>PHP
    </td>
+    <td align="center" width="100">
+   <a href="#">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="postgrsql" />
+   </a>
+  <br>Postgrsql
+   </td>
   </tr>
 <tr>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="JavaScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg
+" width="50" height="50" alt="Laravel" />
       </a>
-      <br>PostgresSQL
+      <br>Laravel
     </td>
    <td align="center" width="100">
       <a href="#">
