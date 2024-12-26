@@ -10,7 +10,8 @@ Actualmente estoy en busqueda de empleo en el area IT.
 <br/>
 <br/>
 Proyectos Deployados:
-
+<br/>
+https://mediabuying.369.ad
 <br/>
 https://formatos.369.ad
 <br/>
