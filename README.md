@@ -1,18 +1,18 @@
 <img align="center" alt="banner" width="100%" src="bannerGithub.png">
 
-<h1 align="center">¡Hola! Soy Santiago Larrique 💻 Front-End developer</h1>
+<h1 align="center">¡Hola! Soy Santiago Larrique 💻 Full-stack developer</h1>
 
-<div>Estoy comenzando mi camino en el mundo de la programación, me gusta aprender cosas nuevas y aplicarlas dia a dia en mis proyectos.</div>
-  Aprender nuevas tecnologias que pueda aplicar cada dia y superarme es lo que mas me motiva.
+<div>Full-stack developer con experiencia en tecnologías front-end y back-end. Apasionado por resolver problemas y colaborar en equipo, con una capacidad demostrada para trabajar de manera autónoma. Busco continuamente desafíos que me permitan crecer en el campo del desarrollo de software.
 <br/>
 <br/>
 
-Actualmente estoy en busqueda de mi primer empleo en el area IT.
+Actualmente estoy en busqueda de empleo en el area IT.
 <br/>
 <br/>
 Proyectos Deployados:
 
 <br/>
+https://formatos.369.ad
 <br/>
 https://pf-techbunny-lake.vercel.app
 </div>
